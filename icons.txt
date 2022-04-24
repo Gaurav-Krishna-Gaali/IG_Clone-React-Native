@@ -45,5 +45,4 @@ export const bottomTabIcons = [
 ]
 
 
-
-https://youtu.be/UbixZZDjrdU?t=3125
+https://youtu.be/UbixZZDjrdU?t=4328
