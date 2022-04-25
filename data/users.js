@@ -1,6 +1,6 @@
 export const USERS = [
   {
-    user: "Gaurav Krishna",
+    user: "GauravKrishna",
     image:
       "https://www.bosshunting.com.au/wp-content/uploads/2019/12/Harvey-Specter-Salary_-What-Would-It-Cost-To-Live-His-Life_.jpg",
   },

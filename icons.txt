@@ -46,3 +46,6 @@ export const bottomTabIcons = [
 
 
 https://youtu.be/UbixZZDjrdU?t=4328
+
+Bottom Comp:
+https://youtu.be/UbixZZDjrdU?t=6743
