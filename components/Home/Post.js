@@ -77,7 +77,7 @@ const PostFooter = () => (
       <Icon imgStyle={styles.footerIcon} imgUrl={postFooterIcons[0].imageUrl} />
       <Icon imgStyle={styles.footerIcon} imgUrl={postFooterIcons[1].imageUrl} />
       <Icon
-        imgStyle={(styles.footerIcon, styles.shareIcons)}
+        imgStyle={[styles.footerIcon, styles.shareIcons]}
         imgUrl={postFooterIcons[2].imageUrl}
       />
     </View>
@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
   },
 
   shareIcons: {
-    transform: [{ rotate: "320deg" }],
+    transform: [{ rotate: "45deg" }],
     marginTop: -3,
   },
 });
